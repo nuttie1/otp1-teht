@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cc557843-1f97-4790-8b48-509a77a09d63" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/otp1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/otp1/src/main/java/com/otp/junit/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2Z5bdp8qCOBu4Q4nCIzGqdI36CO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "corretto-17",
+    "last_opened_file_path": "C:/Users/jussi/IdeaProjects/otp1-teht",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jussi\IdeaProjects\otp1-teht\otp1\src\test\java\com\otp\junit" />
+      <recent name="C:\Users\jussi\IdeaProjects\otp1-teht\otp1\src\main\java\com\otp\junit" />
+      <recent name="C:\Users\jussi\IdeaProjects\otp1-teht\test\laskin" />
+      <recent name="C:\Users\jussi\IdeaProjects\otp1-teht" />
+      <recent name="C:\Users\jussi\IdeaProjects\otp1-teht\otp1-junit\src\main\resources\archetype-resources\src\test\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.laskin in otp1">
+    <configuration name="ExtraTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="otp1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.otp.junit.laskin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.otp.junit.laskin" />
+      <option name="MAIN_CLASS_NAME" value="com.otp.junit.laskin.ExtraTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExtraTest.testNelio2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="otp1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.otp.junit.laskin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.otp.junit.laskin" />
+      <option name="MAIN_CLASS_NAME" value="com.otp.junit.laskin.ExtraTest" />
+      <option name="METHOD_NAME" value="testNelio2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="laskin in otp1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="otp1" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/otp1/src/test/java/com/otp/junit/laskin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.laskin in otp1" />
+        <item itemvalue="JUnit.ExtraTest" />
+        <item itemvalue="JUnit.ExtraTest.testNelio2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc557843-1f97-4790-8b48-509a77a09d63" name="Changes" comment="" />
+      <created>1701714977396</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701714977396</updated>
+      <workItem from="1701714978403" duration="2797000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/otp1_teht$laskin_in_otp1.ic" NAME="laskin in otp1 Coverage Results" MODIFIED="1701717388096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
